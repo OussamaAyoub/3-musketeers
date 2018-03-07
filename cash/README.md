@@ -1,7 +1,7 @@
 # CASH
 
 <p align="center">
-  <img src="./cash/images/currency-converter.png" alt="Test">
+  ![Currency image](https://github.com/OussamaAyoub/3-musketeers/blob/master/cash/images/currency-converter.png)
 </p>
 
 ## Table of content
