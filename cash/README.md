@@ -1,8 +1,7 @@
 # CASH
 
-<p align="center">
-  ![Currency image](https://github.com/OussamaAyoub/3-musketeers/blob/master/cash/images/currency-converter.png)
-</p>
+![Currency image](https://github.com/OussamaAyoub/3-musketeers/blob/master/cash/images/currency-converter.png)
+
 
 ## Table of content
 
