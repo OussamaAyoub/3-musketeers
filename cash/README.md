@@ -1,5 +1,9 @@
 # CASH
 
+<p align="center">
+  <img src="./images/currency-converter.png" alt="Test"
+       width="654" height="450">
+</p>
 
 ## Table of content
 
