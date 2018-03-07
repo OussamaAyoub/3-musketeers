@@ -1,8 +1,7 @@
 # CASH
 
 <p align="center">
-  <img src="./cash/images/currency-converter.png" alt="Test"
-       width="654" height="450">
+  <img src="./cash/images/currency-converter.png" alt="Test">
 </p>
 
 ## Table of content
